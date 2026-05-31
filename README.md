@@ -37,7 +37,7 @@ The game includes an integrated AI solver powered by the **Breadth-First Search 
 
 ## Tech Stack
 
-* Python 3
+* Python 
 * Tkinter
 * Breadth-First Search (BFS)
 * Python Threading
